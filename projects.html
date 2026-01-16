@@ -220,6 +220,30 @@
   </style>
 </head>
 
+      .projects-container.compact-view .project-card>* {
+        min-width: auto !important;
+        flex: 1 1 auto;
+      }
+
+      .projects-container.compact-view .project-footer {
+        text-align: left;
+      }
+    }
+
+    @media (max-width: 600px) {
+      .projects-container {
+        grid-template-columns: 1fr;
+      }
+
+      .projects-container.compact-view .project-card {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 12px;
+      }
+    }
+  </style>
+</head>
+
 <body>
   <div class="circle-container">
     <div class="circle"></div>
@@ -3060,6 +3084,30 @@
   </footer>
 
 
+    <div class="project-card">
+      <h2>Word Scrabble</h2>
+      <p class="project-desc">
+        A daily Scrabble-style word puzzle where players create as many valid words
+        as possible from a given set of letters. Boost vocabulary, spelling, and
+        problem-solving skills.
+      </p>
+      <div class="project-tags">
+        <span>HTML</span>
+        <span>CSS</span>
+        <span>JavaScript</span>
+      </div>
+      <div class="project-links">
+        <a href="./projects/word-scrabble/" target="_blank">
+          <i class="fas fa-external-link-alt"></i> Live
+        </a>
+      </div>
+      <div class="project-footer">
+        <span>By</span>
+        <a href="https://github.com/your-github-username" target="_blank">
+          Anvesha
+        </a>
+      </div>
+    </div>
 
   <script>
     // 1. Navbar Hamburger Menu Logic
