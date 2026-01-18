@@ -1583,6 +1583,24 @@
   ],
   "links": {
     "live": "./projects/weekly-productivity-reflection/index.html"
+  },
+  "author": {
+    "name": "Sneha Amballa",
+    "github": "https://github.com/your-github-username"
+  }
+},
+{
+  "title": "Distractions Tracker 🎯",
+  "description": "A simple tracker that helps users identify common distractions and improve focus during study sessions.",
+  "tags": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Productivity",
+    "Focus"
+  ],
+  "links": {
+    "live": "./projects/distractions-tracker/index.html"
     "Self Assessment"
   ],
   "links": {
