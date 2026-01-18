@@ -260,6 +260,23 @@
                    }
     },
     {
+    "title": "Daily Planner",
+    "description": "A simple and user-friendly daily planner that allows users to create, manage, and track tasks for a single day. It supports marking tasks as completed or pending and provides a one-click daily reset for a fresh start, helping users practice basic CRUD operations and frontend state management.",
+    "tags": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+    ],
+    "links": {
+        "live": "./projects/daily-planner/"
+    },
+    "author": {
+        "name": "Anvesha",
+        "github": "https://github.com/your-github-username"
+    }
+    },
+
+    {
         "title":  "Basket Ball Game",
         "description":  "A 3D basketball shooting game built with Three.js and Cannon.js where players can aim and shoot basketballs into a hoop, keeping track of their score and time.",
         "tags":  [
@@ -1356,6 +1373,23 @@
                    }
     },
     {
+        "title":  "Extreme chess",
+        "description":  "A web-based chess game that allows two players to play against each other with a user-friendly interface and basic game rules implemented.",
+        "tags":  [
+                     "HTML",
+                     "CSS",
+                     "JavaScript",
+                     "Stockfish-api"
+                 ],
+        "links":  {
+                      "live":  "./projects/Extreme chess/index.html"
+                  },
+        "author":  {
+                       "name":  "CodeMaster",
+                       "github":  "https://github.com/CodeMaster"
+                   }
+    },
+    {
         "title":  "Font Styler",
         "description":  "Convert input text into styled or fancy Unicode fonts for social media with one-click copy.",
         "tags":  [
@@ -1520,17 +1554,88 @@
   }
 },
 {
-  "title": "Visual Daily Routine Planner ⏰",
-  "description": "A modern, student-friendly daily planner with time blocks, editable tasks, and clean UI.",
+  "title": "Digital Burnout Awareness 🔥",
+  "description": "An awareness page that explains digital burnout, its symptoms, causes, and simple prevention tips.",
+  "tags": [
+    "HTML",
+    "CSS",
+    "Awareness",
+    "Mental Health",
+    "Digital Wellbeing"
+  ],
+  "links": {
+    "live": "./projects/digital-burnout-awareness/index.html"
+  },
+  "author": {
+    "name": "Sneha Amballa",
+    "github": "https://github.com/your-github-username"
+  }
+},
+{
+  "title": "Weekly Productivity Reflection 📝",
+  "description": "A calm reflection page that helps users review their weekly productivity and identify improvements.",
+  "tags": [
+    "HTML",
+    "CSS",
+    "Productivity",
+    "Self Reflection"
+  ],
+  "links": {
+    "live": "./projects/weekly-productivity-reflection/index.html"
+  },
+  "author": {
+    "name": "Sneha Amballa",
+    "github": "https://github.com/your-github-username"
+  }
+},
+{
+  "title": "Productivity Myths: Myth vs Fact 🧠",
+  "description": "A Myth vs Fact guide that debunks common productivity myths followed by students.",
+  "tags": [
+    "HTML",
+    "CSS",
+    "Productivity",
+    "Education",
+    "Student Wellness"
+  ],
+  "links": {
+    "live": "./projects/productivity-myths/index.html"
+  },
+  "author": {
+    "name": "Sneha Amballa",
+    "github": "https://github.com/your-github-username"
+  }
+},
+{
+  "title": "Study–Rest Balance Guide ⚖️",
+  "description": "A visual guide that explains the importance of balancing study time with proper rest and recovery.",
+  "tags": [
+    "HTML",
+    "CSS",
+    "Education",
+    "Student Wellness",
+    "UI Design"
+  ],
+  "links": {
+    "live": "./projects/study-rest-balance-guide/index.html"
+  },
+  "author": {
+    "name": "Sneha Amballa",
+    "github": "https://github.com/your-github-username"
+  }
+},
+{
+  "title": "Distractions Tracker 🎯",
+  "description": "A simple tracker that helps users identify common distractions and improve focus during study sessions.",
   "tags": [
     "HTML",
     "CSS",
     "JavaScript",
-    "UI/UX",
-    "Productivity"
+    "Productivity",
+    "Focus"
   ],
   "links": {
-    "live": "./projects/daily-routine-planner/index.html"
+    "live": "./projects/distractions-tracker/index.html"
   },
   "author": {
     "name": "Sneha Amballa",
@@ -1541,6 +1646,9 @@
 {
   "title": "Decision Consequences Simulator ⚖️",
   "description": "An interactive system showing consequences of user decisions across real-life scenarios.",
+{
+  "title": "LearnXO",
+  "description": "LearnXO is an interactive educational web project designed to help users learn concepts through structured lessons, quizzes, and simple visual explanations using pure HTML, CSS, and JavaScript.",
   "tags": [
     "HTML",
     "CSS",
@@ -1555,8 +1663,11 @@
   "author": {
     "name": "Sneha Amballa",
     "github": "https://github.com/your-github-username"
+    "live": "./projects/LearnXO/index.html"
+  },
+  "author": {
+    "name": "PavanKarthik",
+    "github": "https://github.com/pavanakarthik12"
   }
 }
-
-
 ]
