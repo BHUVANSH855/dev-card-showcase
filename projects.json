@@ -1520,6 +1520,8 @@
   }
 },
 {
+  "title": "Weekly Productivity Reflection 📝",
+  "description": "A calm reflection page that helps users review their weekly productivity and identify improvements.",
   "title": "Productivity Myths: Myth vs Fact 🧠",
   "description": "A Myth vs Fact guide that debunks common productivity myths followed by students.",
   "tags": [
@@ -1577,6 +1579,10 @@
     "CSS",
     "JavaScript",
     "Productivity",
+    "Self Reflection"
+  ],
+  "links": {
+    "live": "./projects/weekly-productivity-reflection/index.html"
     "Self Assessment"
   ],
   "links": {
