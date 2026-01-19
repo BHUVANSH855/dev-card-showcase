@@ -3646,6 +3646,8 @@
   }
 },
 {
+  "title": "Guess Your Friend 🎯😄",
+  "description": "A fun game where users predict how their friend would answer questions.",
   "title": "Continuous Line Drawing Challenge ✍️",
   "description": "A drawing challenge where users must draw without lifting the mouse.",
   "title": "Color Sorting Puzzle 🧪🎨",
@@ -3667,6 +3669,11 @@
   "links": {
     "live": "./projects/continuous-line-drawing-challenge/index.html"
     "Game",
+    "Social",
+    "Empathy"
+  ],
+  "links": {
+    "live": "./projects/guess-your-friend-game/index.html"
     "Logic",
     "Puzzle"
   ],
