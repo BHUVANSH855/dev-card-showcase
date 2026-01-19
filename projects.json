@@ -3648,47 +3648,55 @@
 {
   "title": "Timeline Ordering Game 🕒",
   "description": "A drag-and-drop game where users arrange events into the correct order.",
-  "title": "Guess Your Friend 🎯😄",
-  "description": "A fun game where users predict how their friend would answer questions.",
-  "title": "Continuous Line Drawing Challenge ✍️",
-  "description": "A drawing challenge where users must draw without lifting the mouse.",
-  "title": "Color Sorting Puzzle 🧪🎨",
-  "description": "A colorful logic puzzle where users sort layered colors into correct jars.",
-  "title": "Spot the Mistake 🔍",
-  "description": "A visual challenge where users find logical or UI mistakes between similar layouts.",
-  "title": "Emoji Emotion Guess Game 😄🤔",
-  "description": "A visual game where users guess emotions or situations from emoji combinations.",
-  "title": "Silent Animation Guessing Game 🎞️",
-  "description": "A visual guessing game where users interpret silent animations and identify the situation.",
-  "tags": [
-    "HTML",
-    "CSS",
-    "JavaScript",
-    "Canvas",
-    "Game",
-    "Creativity"
-  ],
-  "links": {
-    "live": "./projects/continuous-line-drawing-challenge/index.html"
-    "Game",
-    "Logic",
-    "Education"
-  ],
+  "tags": ["HTML", "CSS", "JavaScript", "Game", "Education"],
   "links": {
     "live": "./projects/timeline-ordering-game/index.html"
-    "Social",
-    "Empathy"
-  ],
+  },
+  "author": {
+    "name": "Sneha Amballa",
+    "github": "https://github.com/your-github-username"
+  }
+},
+{
+  "title": "Guess Your Friend 🎯😄",
+  "description": "A fun game where users predict how their friend would answer questions.",
+  "tags": ["HTML", "CSS", "JavaScript", "Social", "Empathy"],
   "links": {
     "live": "./projects/guess-your-friend-game/index.html"
-    "Logic",
-    "Puzzle"
-  ],
+  },
+  "author": {
+    "name": "Sneha Amballa",
+    "github": "https://github.com/your-github-username"
+  }
+},
+{
+  "title": "Continuous Line Drawing Challenge ✍️",
+  "description": "A drawing challenge where users must draw without lifting the mouse.",
+  "tags": ["HTML", "CSS", "JavaScript", "Canvas", "Creativity"],
+  "links": {
+    "live": "./projects/continuous-line-drawing-challenge/index.html"
+  },
+  "author": {
+    "name": "Sneha Amballa",
+    "github": "https://github.com/your-github-username"
+  }
+},
+{
+  "title": "Color Sorting Puzzle 🧪🎨",
+  "description": "A colorful logic puzzle where users sort layered colors into correct jars.",
+  "tags": ["HTML", "CSS", "JavaScript", "Logic", "Brain Training"],
   "links": {
     "live": "./projects/color-sorting-puzzle/index.html"
-    "Brain Training",
-    "UI Awareness"
-  ],
+  },
+  "author": {
+    "name": "Sneha Amballa",
+    "github": "https://github.com/your-github-username"
+  }
+},
+{
+  "title": "Spot the Mistake 🔍",
+  "description": "A visual challenge where users find logical or UI mistakes between similar layouts.",
+  "tags": ["HTML", "CSS", "JavaScript", "UI Awareness"],
   "links": {
     "live": "./projects/spot-the-mistake-game/index.html"
   },
@@ -3696,15 +3704,23 @@
     "name": "Sneha Amballa",
     "github": "https://github.com/your-github-username"
   }
-    "Emotional Awareness",
-    "Interactive Learning"
-  ],
+},
+{
+  "title": "Emoji Emotion Guess Game 😄🤔",
+  "description": "A visual game where users guess emotions or situations from emoji combinations.",
+  "tags": ["HTML", "CSS", "JavaScript", "Emotional Awareness"],
   "links": {
     "live": "./projects/emoji-emotion-guess-game/index.html"
-    "Animation",
-    "Game",
-    "Observation Skills"
-  ],
+  },
+  "author": {
+    "name": "Sneha Amballa",
+    "github": "https://github.com/your-github-username"
+  }
+},
+{
+  "title": "Silent Animation Guessing Game 🎞️",
+  "description": "A visual guessing game where users interpret silent animations and identify the situation.",
+  "tags": ["HTML", "CSS", "JavaScript", "Animation", "Observation Skills"],
   "links": {
     "live": "./projects/silent-animation-guess-game/index.html"
   },
@@ -3890,8 +3906,6 @@
   }
 },
 {
-    "title": "Space Invaders Retro Shooter",
-    "description": "A classic Space Invaders–style arcade game featuring a player-controlled spaceship, alien enemies, keyboard shooting mechanics, score tracking, and a lives system using HTML Canvas.",
     "title": "Retro Snake Game",
     "description": "A classic retro-style Snake game built using HTML Canvas with pixel-inspired visuals, keyboard controls, increasing difficulty, and a scoring system for an engaging learning experience.",
     "tags": [
@@ -3903,7 +3917,6 @@
         "Retro"
     ],
     "links": {
-        "live": "https://your-username.github.io/dev-card-showcase/games/space-invaders/"
         "live": "https://your-username.github.io/dev-card-showcase/games/snake/"
     },
     "author": {
