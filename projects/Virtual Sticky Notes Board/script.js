@@ -14,6 +14,33 @@ function renderPages() {
   });
 }
 
+const fontSelect = document.getElementById("fontSelect");
+let currentFont = localStorage.getItem("font") || "'Segoe UI', sans-serif";
+fontSelect.value = currentFont;
+
+fontSelect.onchange = () => {
+  currentFont = fontSelect.value;
+  localStorage.setItem("font", currentFont);
+
+  document.querySelectorAll(".note textarea").forEach(t => {
+    t.style.fontFamily = currentFont;
+  });
+};
+
+const fontSizeSelect = document.getElementById("fontSizeSelect");
+let currentFontSize = localStorage.getItem("fontSize") || "14px";
+fontSizeSelect.value = currentFontSize;
+
+fontSizeSelect.onchange = () => {
+  currentFontSize = fontSizeSelect.value;
+  localStorage.setItem("fontSize", currentFontSize);
+
+  // Update all existing notes
+  document.querySelectorAll(".note textarea").forEach(t => {
+    t.style.fontSize = currentFontSize;
+  });
+};
+
 function placeOnBoard(page) {
   const note = document.createElement("div");
   note.className = "note";
@@ -48,6 +75,10 @@ function placeOnBoard(page) {
 
   const ta = document.createElement("textarea");
   ta.value = page.text;
+  ta.style.fontFamily = currentFont;
+  ta.style.fontSize = currentFontSize;
+
+
 
   const data = { id: Date.now(), x: 60, y: 60, color: page.color, text: "" };
   boardNotes.push(data);
@@ -106,5 +137,28 @@ addPage.onclick = () => {
   saveAll();
   renderPages();
 };
+
+const sidebar = document.getElementById("sidebar");
+const toggleSidebarBtn = document.getElementById("toggleSidebar");
+
+toggleSidebarBtn.onclick = () => {
+  sidebar.classList.toggle("collapsed");
+};
+
+const openSidebarBtn = document.getElementById("openSidebarBtn");
+
+toggleSidebarBtn.onclick = () => {
+  sidebar.classList.toggle("collapsed");
+
+  openSidebarBtn.style.display = sidebar.classList.contains("collapsed") ? "block" : "none";
+};
+
+openSidebarBtn.onclick = () => {
+  sidebar.classList.remove("collapsed");
+  openSidebarBtn.style.display = "none";
+};
+
+
+
 
 renderPages();
