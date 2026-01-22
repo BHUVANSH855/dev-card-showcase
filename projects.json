@@ -52,6 +52,24 @@
             "github": "https://github.com/neeru24"
         }
     },
+       {
+        "title": "Note Taker App",
+        "description": "A simple and intuitive note-taking application that allows users to create, edit, and delete notes. Features a clean interface with local storage for saving notes.",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "PDF",
+            "Document Processing"
+        ],
+        "links": {
+            "live": "./projects/notepad/index.html"
+        },
+        "author": {
+            "name": "Omkar",
+            "github": "https://github.com/omkarhole"
+        }
+    },
         {
         "title": "PDF Flashcards",
         "description": "The tool simulates PDF generation and provides a complete flashcard creation experience!",
