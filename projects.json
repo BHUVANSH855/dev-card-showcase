@@ -5091,5 +5091,21 @@
         "name": "Gupta-02",
         "github": "https://github.com/Gupta-02"
     }
+},
+{
+    "title":"phantomjs",
+    "description": "A JavaScript library for creating phantom animations. It provides a simple and intuitive way to define and work with phantom animations in your JavaScript applications.",
+    "tags": [
+        "JavaScript",
+        "Phantom Animation",
+        "Library"
+    ],
+    "links": {
+        "live": "./projects/phantomjs/index.html"
+    },
+    "author": {
+        "name": "PavanKarthik",
+        "github": "https://github.com/pavanakarthik12"
+    }
 }
 ]
