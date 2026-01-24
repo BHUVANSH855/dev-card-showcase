@@ -626,6 +626,22 @@
             "github": "https://github.com/omkarhole"
         }
     },
+        {
+        "title": "Catch the Ball Game",
+        "description": "An exciting game where players control a basket to catch falling balls while avoiding obstacles. Features increasing difficulty levels, score tracking, and engaging gameplay.",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "links": {
+            "live": "./projects/catch-the-falling-objects/index.html"
+        },
+        "author": {
+            "name": "Neeru",
+            "github": "https://github.com/neeru24"
+        }
+    },
     {
         "title": "Code Editor",
         "description": "A professional code editor with multi-language support, customizable themes, real-time preview, and essential features like code download and clearing.",
