@@ -5542,6 +5542,7 @@
     ],
     "links": {
         "live": "./projects/javalitejs/index.html"
+    },
     "title": "Livetypingaura",
     "description": "A live typing game where users must type a sentence as fast and accurately as possible. Features timer, scoring system, and typing accuracy calculation.",
     "tags": [
@@ -5556,6 +5557,7 @@
     "author": {
         "name": "Sneha Amballa",
         "github": "https://github.com/Sneha-Amballa"
+    },
     "title": "Djjs",
     "description": "A JavaScript library for creating DJ-style visualizations. It provides a simple and intuitive way to define and work with DJ-style visualizations in your JavaScript applications.",
     "tags": [
@@ -5565,6 +5567,23 @@
     ],
     "links": {
         "live": "./projects/djjs/index.html"
+    },
+    "author": {
+        "name": "PavanKarthik",
+        "github": "https://github.com/pavanakarthik12"
+    }
+    
+},
+{
+    "title": "Rocketjs",
+    "description": "A JavaScript library for creating rocket animations. It provides a simple and intuitive way to define and work with rocket animations in your JavaScript applications.",
+    "tags": [
+        "JavaScript",
+        "Rocket Animation",
+        "Library"
+    ],
+    "links": {
+        "live": "./projects/rocketjs/index.html"
     },
     "author": {
         "name": "PavanKarthik",
