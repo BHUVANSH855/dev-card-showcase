@@ -1,5 +1,45 @@
 [
     {
+        "title": "Island Builder",
+        "description": "A cozy tile-placement strategy game where players build island paradises by strategically placing tiles to maximize adjacency scoring. Features random tile deck, turn-based gameplay, and beautiful island-building mechanics.",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Game",
+            "Strategy",
+            "Puzzle",
+            "Tile Placement"
+        ],
+        "links": {
+            "live": "./projects/island-builder/"
+        },
+        "author": {
+            "name": "Gupta",
+            "github": "https://github.com/Gupta-02"
+        }
+    },
+    {
+        "title": "Gravity Golf",
+        "description": "A physics-based puzzle golf game where players launch a ball around planets using gravity wells to reach the goal flag. Features slingshot mechanics, orbital trajectories, par scoring system, and progressive difficulty levels.",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Game",
+            "Canvas",
+            "Physics",
+            "Puzzle"
+        ],
+        "links": {
+            "live": "./projects/gravity-golf/"
+        },
+        "author": {
+            "name": "Gupta",
+            "github": "https://github.com/Gupta-02"
+        }
+    },
+    {
         "title": "Pac-Man Inspired Maze",
         "description": "A maze-based game inspired by Pac-Man where players collect dots while avoiding enemy ghosts. Features grid-based movement, score tracking, and simple AI for enemies.",
         "tags": [
