@@ -5661,83 +5661,67 @@
         "github": "https://github.com/Sneha-Amballa"
     }
 },
-{
-    "title" : "javalitejs",
+[
+  {
+    "title": "javalitejs",
     "description": "A JavaScript library for creating java-like classes and objects. It provides a simple and intuitive way to define and work with java-like classes and objects in your JavaScript applications.",
-    "tags": [
-        "JavaScript",
-        "Java-like Classes",
-        "Library"
-    ],
+    "tags": ["JavaScript", "Java-like Classes", "Library"],
     "links": {
-        "live": "./projects/javalitejs/index.html"
-    },
+      "live": "./projects/javalitejs/index.html"
+    }
+  },
+  {
     "title": "Livetypingaura",
     "description": "A live typing game where users must type a sentence as fast and accurately as possible. Features timer, scoring system, and typing accuracy calculation.",
-    "tags": [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "Game"
-    ],
+    "tags": ["HTML", "CSS", "JavaScript", "Game"],
     "links": {
-        "live": "./projects/Livetypingaura/index.html"
+      "live": "./projects/Livetypingaura/index.html"
     },
     "author": {
-        "name": "Sneha Amballa",
-        "github": "https://github.com/Sneha-Amballa"
-    },
+      "name": "Sneha Amballa",
+      "github": "https://github.com/Sneha-Amballa"
+    }
+  },
+  {
     "title": "Djjs",
     "description": "A JavaScript library for creating DJ-style visualizations. It provides a simple and intuitive way to define and work with DJ-style visualizations in your JavaScript applications.",
-    "tags": [
-        "JavaScript",
-        "DJ Visualization",
-        "Library"
-    ],
+    "tags": ["JavaScript", "DJ Visualization", "Library"],
     "links": {
-        "live": "./projects/djjs/index.html"
+      "live": "./projects/djjs/index.html"
     },
     "author": {
-        "name": "PavanKarthik",
-        "github": "https://github.com/pavanakarthik12"
+      "name": "PavanKarthik",
+      "github": "https://github.com/pavanakarthik12"
     }
-},
-{
-    "title":"chromawave",
+  },
+  {
+    "title": "chromawave",
     "description": "A JavaScript library for creating chroma-style visualizations. It provides a simple and intuitive way to define and work with chroma-style visualizations in your JavaScript applications.",
-    "tags": [
-        "JavaScript",
-        "Chroma Visualization",
-        "Library"
-    ],
+    "tags": ["JavaScript", "Chroma Visualization", "Library"],
     "links": {
-        "live": "./projects/chromawave/index.html"
-    "title" : "Businessjs",
+      "live": "./projects/chromawave/index.html"
+    }
+  },
+  {
+    "title": "Businessjs",
     "description": "A JavaScript library for creating business-style visualizations. It provides a simple and intuitive way to define and work with business-style visualizations in your JavaScript applications.",
-    "tags": [
-        "JavaScript",
-        "Business Visualization",
-        "Library"
-    ],
+    "tags": ["JavaScript", "Business Visualization", "Library"],
     "links": {
-        "live": "./projects/businessjs/index.html"
-    
-},
-{
+      "live": "./projects/businessjs/index.html"
+    }
+  },
+  {
     "title": "Rocketjs",
     "description": "A JavaScript library for creating rocket animations. It provides a simple and intuitive way to define and work with rocket animations in your JavaScript applications.",
-    "tags": [
-        "JavaScript",
-        "Rocket Animation",
-        "Library"
-    ],
+    "tags": ["JavaScript", "Rocket Animation", "Library"],
     "links": {
-        "live": "./projects/rocketjs/index.html"
+      "live": "./projects/rocketjs/index.html"
     },
     "author": {
-        "name": "PavanKarthik",
-        "github": "https://github.com/pavanakarthik12"
+      "name": "PavanKarthik",
+      "github": "https://github.com/pavanakarthik12"
     }
-}
+  }
+]
 ]
 
