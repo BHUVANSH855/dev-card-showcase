@@ -1208,6 +1208,25 @@
         }
     },
     {
+        "title": "Retro Racing (Top-Down)",
+        "description": "A top-down retro racing game where players avoid obstacles and survive as long as possible. Features vertical scrolling road, player-controlled car, random obstacle spawning, and score based on survival time.",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Game",
+            "Arcade",
+            "Racing"
+        ],
+        "links": {
+            "live": "./projects/retro-racing/index.html"
+        },
+        "author": {
+            "name": "Sneha-Amballa",
+            "github": "https://github.com/Sneha-Amballa"
+        }
+    },
+    {
         "title": "Word Memory Game",
         "description": "Word Memory Game is an engaging web application that challenges players to memorize and recall words within a time limit. It enhances vocabulary and memory skills through multiple levels of difficulty and interactive gameplay.",
         "tags": [
