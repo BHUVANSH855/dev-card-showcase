@@ -6875,6 +6875,26 @@
       "name": "Gupta-02",
       "github": "https://github.com/Gupta-02"
     }
+  },
+  {
+    "title": "Cassette Tape Music Player",
+    "description": "A retro cassette tape-style music player UI with play/pause controls, rotating tape animation, and progress bar styled as cassette reels. Inspired by old Walkman cassette players.",
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Music Player",
+      "Retro",
+      "Animation",
+      "UI/UX"
+    ],
+    "links": {
+      "live": "./projects/Cassette-Tape-Music-Player/"
+    },
+    "author": {
+      "name": "Sneha-Amballa",
+      "github": "https://github.com/Sneha-Amballa"
+    }
   }
 ]
 
