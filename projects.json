@@ -6839,6 +6839,26 @@
       "name": "Gupta-02",
       "github": "https://github.com/Gupta-02"
     }
+  },
+  {
+    "title": "Heart Rate Monitor UI",
+    "description": "UI for tracking real-time and historical heart rate data with BPM input, resting vs active charts, and configurable alert thresholds.",
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Utility",
+      "Health",
+      "Dashboard",
+      "Charts"
+    ],
+    "links": {
+      "live": "./projects/Heart-Rate-Monitor-UI/"
+    },
+    "author": {
+      "name": "Gupta-02",
+      "github": "https://github.com/Gupta-02"
+    }
   }
 ]
 
