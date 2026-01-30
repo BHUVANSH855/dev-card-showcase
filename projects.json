@@ -7186,6 +7186,33 @@
     }
   },
   {
+    "title": "Meal Planner 🥗",
+    "description": "A comprehensive daily meal planning application that helps users create balanced, nutritious meal plans with nutrition tracking, progress visualization, and smart meal suggestions. Features meal organization by categories, real-time nutrition monitoring, interactive charts, and customizable daily goals to support healthy eating habits.",
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Chart.js",
+      "Nutrition",
+      "Meal Planning",
+      "Health",
+      "Wellness",
+      "Data Visualization",
+      "Local Storage",
+      "Responsive",
+      "Analytics",
+      "Diet",
+      "Healthy Eating"
+    ],
+    "links": {
+      "live": "./projects/meal-planner/"
+    },
+    "author": {
+      "name": "Gupta",
+      "github": "https://github.com/Gupta-02"
+    }
+  },
+  {
     "title": "Meditation Tracker",
     "description": "A serene meditation tracking application that helps users monitor their mindfulness practice. Features session duration logging, calm score ratings (1-10), progress visualization with interactive charts, streak tracking, and helpful meditation tips. Includes beautiful gradient design, local storage persistence, and comprehensive statistics to support consistent meditation habits.",
     "tags": [
