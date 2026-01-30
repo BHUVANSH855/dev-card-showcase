@@ -7037,6 +7037,58 @@
       "name": "Gupta",
       "github": "https://github.com/Gupta-02"
     }
+  },
+  {
+    "title": "Habit Tracker UI",
+    "description": "A modern habit tracking web application that helps users build and maintain positive habits through streak visualization, progress tracking, and motivational feedback. Features flexible scheduling (daily, weekdays, weekends, custom), interactive charts showing weekly completion rates, and a beautiful glassmorphism design.",
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Chart.js",
+      "Habit Tracking",
+      "Productivity",
+      "Streak Counter",
+      "Progress Visualization",
+      "Responsive",
+      "Local Storage",
+      "Glassmorphism",
+      "Motivation",
+      "Wellness"
+    ],
+    "links": {
+      "live": "./projects/habit-tracker/"
+    },
+    "author": {
+      "name": "Gupta",
+      "github": "https://github.com/Gupta-02"
+    }
+  },
+  {
+    "title": "Blood Pressure Monitor UI",
+    "description": "A comprehensive blood pressure tracking web application that helps users monitor their cardiovascular health through systematic BP recording, trend visualization, and risk assessment based on American Heart Association guidelines. Features systolic/diastolic input, heart rate tracking, interactive charts, and color-coded risk levels.",
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Chart.js",
+      "Health Monitoring",
+      "Blood Pressure",
+      "Medical",
+      "Cardiovascular",
+      "Risk Assessment",
+      "Responsive",
+      "Local Storage",
+      "Glassmorphism",
+      "Wellness"
+    ],
+    "links": {
+      "live": "./projects/blood-pressure-monitor/"
+    },
+    "author": {
+      "name": "Gupta",
+      "github": "https://github.com/Gupta-02"
+    }
   }
 ]
 
