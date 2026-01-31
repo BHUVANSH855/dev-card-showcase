@@ -1,0 +1,12 @@
+body { font-family: Arial, sans-serif; margin:0; background:#f0f4ff; }
+.container { max-width:1200px; margin:20px auto; padding:20px; }
+textarea { width:100%; height:200px; padding:10px; font-family: monospace; font-size:14px; }
+button { padding:10px 20px; margin:10px 0; background:#4f46e5; color:white; border:none; cursor:pointer; border-radius:6px; }
+button:hover { background:#6366f1; }
+.flowchart-container { width:100%; height:600px; overflow:auto; border:1px solid #ccc; background:#fff; }
+svg { width:2000px; height:2000px; }
+.node rect, .node ellipse, .node polygon { fill:#4f46e5; stroke:#333; stroke-width:2; }
+.node text { fill:white; font-size:14px; text-anchor:middle; dominant-baseline:middle; }
+.line { stroke:#4f46e5; stroke-width:2; fill:none; marker-end:url(#arrow); }
+a.btn { display:inline-block; margin-top:20px; padding:10px 20px; background:#4f46e5; color:white; text-decoration:none; border-radius:6px; }
+a.btn:hover { background:#6366f1; }
