@@ -873,6 +873,22 @@
             "github": "https://github.com/omkarhole"
         }
     },
+          {
+        "title": "VectorForge",
+        "description": "A vector graphics editor that allows users to create and manipulate vector shapes, paths, and designs. Features include drawing tools, shape transformations, color fills, and export options for SVG files.",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "links": {
+            "live": "./projects/VectorForge/index.html"
+        },
+        "author": {
+            "name": "Omkar",
+            "github": "https://github.com/omkarhole"
+        }
+    },
          {
         "title": "Corn Viz",
         "description": "A data visualization tool that presents corn production statistics using interactive charts and graphs. Users can explore trends, compare data across regions, and gain insights into corn production patterns.",
