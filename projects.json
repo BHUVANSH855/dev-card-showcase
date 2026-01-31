@@ -7530,24 +7530,27 @@
     }
   },
   {
-    "title": "Blood Sugar Tracker 🩸",
-    "description": "A comprehensive blood glucose monitoring interface for diabetic users. Features glucose level logging with date/time, daily trend graphs using Chart.js, personalized diet advice based on readings, and local storage for data persistence. Helps track daily glucose fluctuations with visual insights and health recommendations.",
+    "title": "Fitness Analytics Dashboard 📊",
+    "description": "A comprehensive fitness analytics dashboard for power users, featuring multi-metric tracking, interactive charts, goal setting, AI-powered insights, and advanced data visualization. Track steps, calories, distance, heart rate, weight, and active minutes with weekly/monthly trends, progress tracking, and personalized recommendations for optimal fitness management.",
     "tags": [
       "HTML",
       "CSS",
       "JavaScript",
       "Chart.js",
-      "Health Monitoring",
-      "Blood Sugar",
-      "Diabetes",
+      "Fitness Tracking",
       "Data Visualization",
-      "Local Storage",
+      "Analytics",
+      "Health Monitoring",
+      "Interactive Dashboard",
+      "Goal Tracking",
+      "AI Insights",
       "Responsive",
-      "Medical",
-      "Wellness"
+      "Local Storage",
+      "Multi-metric",
+      "Advanced UI"
     ],
     "links": {
-      "live": "./projects/Blood-Sugar-Tracker/"
+      "live": "./projects/Fitness-Analytics-Dashboard/"
     },
     "author": {
       "name": "Gupta",
