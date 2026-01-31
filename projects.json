@@ -23,6 +23,24 @@
         }
     },
     {
+        "title": "Breathing Circle",
+        "description": "A minimalist breathing exercise tool designed to promote calm and focus. Features a smooth inhale–hold–exhale animation cycle, soft wellness-inspired visuals, and a fully responsive layout for a distraction-free experience across devices.",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "UI/UX",
+            "Wellness"
+        ],
+        "links": {
+            "live": "./projects/breathing-circle/"
+        },
+        "author": {
+            "name": "Anvesha",
+            "github": "https://github.com/your-github-username"
+  }
+},
+    {
         "title": "DrumsJS - Auto-Play Drum Machine",
         "description": "A lightweight, single-file drum machine with auto-play functionality. Features 8 drum pads (Kick, Snare, Hi-Hat, Tom, Clap, Cymbal, Percussion, Bass) playable via mouse clicks or keyboard keys (Q,W,E,R,A,S,D,F). Includes 5 beat patterns (Rock, Funk, Hip-Hop, Reggae, Disco), adjustable tempo (60-180 BPM), and smooth visual feedback with glassmorphism design.",
         "tags": [
@@ -43,6 +61,41 @@
         "author": {
             "name": "Gupta",
             "github": "https://github.com/Gupta-02"
+        }
+    },
+    {
+  "title": "Pattern Recall",
+  "description": "A responsive memory game that challenges users to observe and recall increasingly complex visual patterns. Designed with a game-like interface, smooth animations, and progressive difficulty to enhance focus and cognitive skills.",
+  "tags": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Game",
+    "UI/UX"
+  ],
+  "links": {
+    "live": "./projects/pattern-recall/"
+  },
+  "author": {
+    "name": "Anvesha",
+    "github": "https://github.com/your-github-username"
+  }
+},
+       {
+        "title": "Bubble pop",
+        "description": "Bubble pop game where players pop bubbles to score points. Features colorful graphics, popping sound effects, and increasing difficulty levels for an engaging and fun experience.",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Utility Tool"
+        ],
+        "links": {
+            "live": "./projects/BubblePop/index.html"
+        },
+        "author": {
+            "name": "Omkar",
+            "github": "https://github.com/omkarhole"
         }
     },
     {
@@ -86,6 +139,24 @@
             "github": "https://github.com/Gupta-02"
         }
     },
+    {
+        "title": "Catch the Dot",
+        "description": "A fast-paced interactive game where users tap a moving dot before time runs out. Features a playful, neon-inspired UI, real-time score tracking, and a fully responsive layout designed for both desktop and mobile interaction.",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Game",
+            "UI/UX"
+        ],
+        "links": {
+            "live": "./projects/catch-the-dot/"
+        },
+        "author": {
+            "name": "Anvesha",
+            "github": "https://github.com/your-github-username"
+        }
+        },
       {
         "title": "Bio Sphere Simulator",
         "description": "A web-based bio sphere simulator that allows users to create and manage a self-sustaining ecosystem. Users can add plants, animals, and environmental factors to observe interactions and balance within the bio sphere.",
@@ -96,6 +167,22 @@
         ],
         "links": {
             "live": "./projects/biospherejs/index.html"
+        },
+        "author": {
+            "name": "Omkar",
+            "github": "https://github.com/omkarhole"
+        }
+    },
+         {
+        "title": "ClamRoute",
+        "description": "A web-based bio sphere simulator that allows users to create and manage a self-sustaining ecosystem. Users can add plants, animals, and environmental factors to observe interactions and balance within the bio sphere.",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "links": {
+            "live": "./projects/Calmroute/index.html"
         },
         "author": {
             "name": "Omkar",
@@ -150,6 +237,22 @@
             "github": "https://github.com/your-github-username"
         }
 },
+ {
+        "title": "chess-vs-computer",
+        "description": "A web-based chess game where players can compete against a computer opponent with varying difficulty levels. Features include a user-friendly interface, move validation, and an AI that adapts to the player's skill level.",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "links": {
+            "live": "./projects/chess-vs-computer/index.html"
+        },
+        "author": {
+            "name": "Omkar",
+            "github": "https://github.com/omkarhole"
+        }
+    },
   {
         "title": "Digital Energy Meter",
         "description": "A digital energy meter that displays real-time energy consumption and provides controls for managing energy usage. Features include live energy flow visualization, adjustable drain rate, quick charge, pause drain, and reset functions, all within a clean and responsive interface.",
@@ -167,6 +270,24 @@
         }
     },
     {
+  "title": "Stress Level Self-Check",
+  "description": "A visually engaging self-assessment tool that helps users gauge their current stress levels through emoji-based questions. Features animated gradient backgrounds, glassmorphism UI, and a circular stress indicator for an intuitive and calming experience.",
+  "tags": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "UI/UX",
+    "Wellness"
+  ],
+  "links": {
+    "live": "./projects/stress-level-self-check/"
+  },
+  "author": {
+    "name": "Anvesha",
+    "github": "https://github.com/your-github-username"
+  }
+},
+    {
         "title": "Temperature Converter",
         "description": "A visually driven temperature conversion tool featuring a climate dial interface. Converts Celsius to Fahrenheit and Kelvin in real time with dynamic UI feedback that adapts to temperature ranges, offering an intuitive and engaging user experience.",
         "tags": [
@@ -183,6 +304,22 @@
             "github": "https://github.com/your-github-username"
         }
 },
+ {
+        "title": "choice collapse simulator",
+        "description": "A web application that simulates the choice collapse phenomenon, demonstrating how individuals tend to make simpler decisions when presented with too many options.",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "links": {
+            "live": "./projects/ChoiceCollapseSimulator/index.html"
+        },
+        "author": {
+            "name": "Omkar",
+            "github": "https://github.com/omkarhole"
+        }
+    },
     {
         "title": "Gravity Golf",
         "description": "A physics-based puzzle golf game where players launch a ball around planets using gravity wells to reach the goal flag. Features slingshot mechanics, orbital trajectories, par scoring system, and progressive difficulty levels.",
@@ -730,6 +867,38 @@
         ],
         "links": {
             "live": "./projects/hsl-color-game/index.html"
+        },
+        "author": {
+            "name": "Omkar",
+            "github": "https://github.com/omkarhole"
+        }
+    },
+         {
+        "title": "Corn Viz",
+        "description": "A data visualization tool that presents corn production statistics using interactive charts and graphs. Users can explore trends, compare data across regions, and gain insights into corn production patterns.",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "links": {
+            "live": "./projects/Corn-Viz/index.html"
+        },
+        "author": {
+            "name": "Omkar",
+            "github": "https://github.com/omkarhole"
+        }
+    },
+    {
+        "title": "Geography Capital Matcher",
+        "description": "An interactive geography game where players match countries with their capitals. Features multiple levels, score tracking, and a visually appealing interface.",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "links": {
+            "live": "./projects/geography-capital-matcher/index.html"
         },
         "author": {
             "name": "Omkar",
@@ -1487,6 +1656,38 @@
         }
     },
     {
+        "title": "QR code Generator",
+        "description": "A tool that generates QR codes from user input text or URLs.",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "links": {
+            "live": "./projects/qrCode/index.html"
+        },
+        "author": {
+            "name": "Neeru",
+            "github": "https://github.com/neeru24"
+        }
+    },
+    {
+        "title": "Dead Code Detector",
+        "description": "A tool that detects and highlights unused functions, variables, and imports in JavaScript code.",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "links": {
+            "live": "./projects/DeadCode/index.html"
+        },
+        "author": {
+            "name": "Neeru",
+            "github": "https://github.com/neeru24"
+        }
+    },
+    {
         "title": "Colorful Quiz Challenge",
         "description": "A bright, engaging quiz website with cheerful pastel shades and random questions on various fun topics. Features score tracking, hints, and celebration animations.",
         "tags": [
@@ -1814,6 +2015,23 @@
     "links": { "live": "./projects/task-master/index.html" }, 
     "author": { "name": "CodeMaster", 
     "github": "https://github.com/CodeMaster" } 
+    },
+    {
+        "title": "AI image editor",
+        "description": "A web application that allows users to edit images using AI-powered tools such as background removal, color enhancement, and style transfer.",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "TensorFlow.js"
+        ],
+        "links": {
+            "live": "./projects/ai-image-editor/index.html"
+        },
+        "author": {
+            "name": "CodeMaster",
+            "github": "https://github.com/CodeMaster11000"
+        }
     },
     {
         "title": "Virtual Coffee Maker",
@@ -3549,6 +3767,23 @@
         ],
         "links": {
             "live": "./projects/stock simulator/index.html"
+        },
+        "author": {
+            "name": "CodeMaster",
+            "github": "https://github.com/CodeMaster"
+        }
+    },
+    {
+        "title": "3D modeller",
+        "description": "A web application that allows users to create and manipulate 3D models using WebGL and Three.js library.",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Three.js"
+        ],
+        "links": {
+            "live": "./projects/3D-moddeler/index.html"
         },
         "author": {
             "name": "CodeMaster",
@@ -7202,6 +7437,33 @@
     }
   },
   {
+    "title": "Meal Planner 🥗",
+    "description": "A comprehensive daily meal planning application that helps users create balanced, nutritious meal plans with nutrition tracking, progress visualization, and smart meal suggestions. Features meal organization by categories, real-time nutrition monitoring, interactive charts, and customizable daily goals to support healthy eating habits.",
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Chart.js",
+      "Nutrition",
+      "Meal Planning",
+      "Health",
+      "Wellness",
+      "Data Visualization",
+      "Local Storage",
+      "Responsive",
+      "Analytics",
+      "Diet",
+      "Healthy Eating"
+    ],
+    "links": {
+      "live": "./projects/meal-planner/"
+    },
+    "author": {
+      "name": "Gupta",
+      "github": "https://github.com/Gupta-02"
+    }
+  },
+  {
     "title": "Meditation Tracker",
     "description": "A serene meditation tracking application that helps users monitor their mindfulness practice. Features session duration logging, calm score ratings (1-10), progress visualization with interactive charts, streak tracking, and helpful meditation tips. Includes beautiful gradient design, local storage persistence, and comprehensive statistics to support consistent meditation habits.",
     "tags": [
@@ -7225,4 +7487,164 @@
       "name": "Gupta",
       "github": "https://github.com/Gupta-02"
     }
-  }]
+  },
+  {
+    "title": "Weight Progress Tracker 📈",
+    "description": "A comprehensive weight tracking application with monthly progress charts, target setting, statistics dashboard, and motivational features. Track your weight loss/gain journey with visual progress indicators, data persistence, and practical weight management tips.",
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Chart.js",
+      "Health",
+      "Fitness",
+      "Tracking",
+      "Progress",
+      "Local Storage",
+      "Responsive",
+      "Data Visualization",
+      "Wellness"
+    ],
+    "links": {
+      "live": "./projects/weight-progress-tracker/"
+    },
+    "author": {
+      "name": "Gupta",
+      "github": "https://github.com/Gupta-02"
+    }
+  },
+  {
+    "title": "Activity Summary Dashboard 🚴",
+    "description": "A comprehensive activity tracking dashboard that provides unified insights into daily activities. Features activity logging with time-spent graphs, wellness scoring, personalized tips, and detailed analytics. Includes categorization of physical, mental, social, and work activities with interactive charts and data export functionality.",
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Chart.js",
+      "Dashboard",
+      "Activity Tracking",
+      "Data Visualization",
+      "Wellness",
+      "Analytics",
+      "Local Storage",
+      "Responsive",
+      "Productivity",
+      "Health Monitoring",
+      "Time Management"
+    ],
+    "links": {
+      "live": "./projects/activity-summary-dashboard/"
+    },
+    "author": {
+      "name": "Gupta",
+      "github": "https://github.com/Gupta-02"
+    }
+  },
+  {
+    "title": "Breathing Exercise UI 🫁",
+    "description": "An interactive guided breathing exercise application with multiple techniques including 4-7-8 breathing, box breathing, and deep breathing. Features animated breath cycles, voice guidance, customizable patterns, session tracking, and relaxation tips for stress relief and mindfulness practice.",
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Breathing Exercises",
+      "Meditation",
+      "Wellness",
+      "Animation",
+      "Voice Guidance",
+      "Stress Relief",
+      "Mindfulness",
+      "Health",
+      "Relaxation",
+      "Timer",
+      "Responsive",
+      "Local Storage"
+    ],
+    "links": {
+      "live": "./projects/breathing-exercise/"
+    },
+    "author": {
+      "name": "Gupta",
+      "github": "https://github.com/Gupta-02"
+    }
+  },
+  {
+    "title": "Body Temperature Log 🌡️",
+    "description": "A comprehensive body temperature tracking application for health monitoring during illness. Features temperature logging with multiple measurement methods, trend charts, fever alerts, health status indicators, and medical export functionality. Supports both Celsius and Fahrenheit with professional health insights.",
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Chart.js",
+      "Health Monitoring",
+      "Temperature Tracking",
+      "Medical",
+      "Data Visualization",
+      "Local Storage",
+      "Responsive",
+      "Fever Alerts",
+      "Wellness",
+      "Healthcare",
+      "Vital Signs"
+    ],
+    "links": {
+      "live": "./projects/body-temperature-log/"
+    },
+    "author": {
+      "name": "Gupta",
+      "github": "https://github.com/Gupta-02"
+    }
+  },
+  {
+    "title": "Doctor Visit History 🧑‍⚕️",
+    "description": "A comprehensive medical visit history tracker to help users maintain their healthcare records. Features visit logging with doctor details, diagnosis, medications, and notes, a chronological timeline view of all visits, and a general notes section for ongoing health observations. Improves medical record keeping and helps prevent forgetting past diagnoses and treatments.",
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Health Monitoring",
+      "Medical Records",
+      "Timeline",
+      "Local Storage",
+      "Responsive",
+      "Healthcare",
+      "Patient History",
+      "Wellness"
+    ],
+    "links": {
+      "live": "./projects/Doctor-Visit-History/"
+    },
+    "author": {
+      "name": "Gupta",
+      "github": "https://github.com/Gupta-02"
+    }
+  },
+  {
+    "title": "Stress Level Tracker 🧠",
+    "description": "A comprehensive mental health monitoring interface for tracking stress levels over time. Features stress scale input (1-10), mood tracking, trigger identification, interactive trend graphs using Chart.js, mood distribution analysis, personalized coping strategies, and AI-powered insights for stress management and mental health awareness.",
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Chart.js",
+      "Mental Health",
+      "Stress Tracking",
+      "Mood Monitoring",
+      "Data Visualization",
+      "Local Storage",
+      "Responsive",
+      "Wellness",
+      "Health Analytics",
+      "Coping Strategies",
+      "Mental Health Awareness"
+    ],
+    "links": {
+      "live": "./projects/Stress-Level-Tracker/"
+    },
+    "author": {
+      "name": "Gupta",
+      "github": "https://github.com/Gupta-02"
+    }
+  }
+]
+
