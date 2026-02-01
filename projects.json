@@ -769,15 +769,15 @@
         }
     },
      {
-        "title": "WebKernal",
-        "description": "A lightweight web browser kernel that supports basic browsing functionalities such as loading web pages, navigating back and forth, and refreshing pages. Designed for simplicity and ease of use.",
+        "title": "Typing heatmap",
+        "description": "A web application that visualizes keyboard typing heatmap, showing the frequency of key presses with color-coded intensity levels. Features include real-time updates, reset functionality, and a clear, user-friendly interface.",
         "tags": [
             "HTML",
             "CSS",
             "JavaScript"
         ],
         "links": {
-            "live": "./projects/webkernal/index.html"
+            "live": "./projects/Typing_Heatmap/index.html"
         },
         "author": {
             "name": "Omkar",
