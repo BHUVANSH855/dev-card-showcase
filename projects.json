@@ -131,6 +131,7 @@
             "name": "Anvesha",
             "github": "https://github.com/your-github-username"
         }
+    }
 },
 {
     "title": "Risk vs Reward Strategy",
@@ -3268,6 +3269,29 @@
             "github": "https://github.com/your-github-username"
         }
     },
+    {
+    "title": "Time Leakage Detector",
+    "description": "A radar-style interactive tool that tracks daily activities and detects time leaks. Features animated scanning UI, visual activity radar chart, and automatic leak alerts for excessive time usage.",
+    "tags": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Productivity",
+        "UI/UX",
+        "Visualization",
+        "Interactive"
+    ],
+    "links": {
+        "live": "./projects/time-leakage-detector/"
+    },
+    "author": {
+        "name": "Anvesha",
+        "github": "https://github.com/your-github-username"
+    }
+},
+    {
+        "title": "Periodic Table",
+        "description": "The periodic table that provides detailed information about each element, including atomic number, symbol, atomic mass, and electron configuration. Features search functionality and responsive design for easy access on all devices.",
      {
         "title": "Arcide Game",
         "description": "An exciting arcade-style game where players navigate a character through various levels filled with obstacles and enemies. Features smooth animations, power-ups, and score tracking for an engaging gaming experience.",
