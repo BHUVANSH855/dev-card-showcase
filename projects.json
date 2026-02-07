@@ -566,6 +566,24 @@
             "github": "https://github.com/PriyanshuSingh00-hub"
         }
     },
+     },
+    {
+        "title": "Maze Generator",
+        "description": "A web-based maze generator that creates random mazes using a recursive backtracking algorithm. Users can customize the maze size and complexity, and the generated maze is displayed visually with a clean and responsive design.",
+        "tags": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Utility Tool"
+        ],
+        "links": {
+            "live": "./projects/Maze-generator/index.html"
+        },
+        "author": {
+            "name": "Omkar",
+            "github": "https://github.com/omkarhole"
+        }
+    },
 {
         "title": "Code Syntax Spotter",
         "description": "An interactive developer-focused game that challenges users to identify syntax errors by comparing correct and buggy code snippets. Features a diff-style visual interface, click-to-spot gameplay, instant feedback, and a responsive, beginner-friendly UI designed to sharpen code reading and debugging skills.",
